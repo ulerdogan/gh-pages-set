@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ulerdogan.github.io/gh-pages-set/static/css/main.8e2bcc4c.chunk.css",
-    "main.js": "/ulerdogan.github.io/gh-pages-set/static/js/main.6ba438e7.chunk.js",
-    "main.js.map": "/ulerdogan.github.io/gh-pages-set/static/js/main.6ba438e7.chunk.js.map",
-    "runtime-main.js": "/ulerdogan.github.io/gh-pages-set/static/js/runtime-main.d522c0d6.js",
-    "runtime-main.js.map": "/ulerdogan.github.io/gh-pages-set/static/js/runtime-main.d522c0d6.js.map",
-    "static/js/2.1a5470bc.chunk.js": "/ulerdogan.github.io/gh-pages-set/static/js/2.1a5470bc.chunk.js",
-    "static/js/2.1a5470bc.chunk.js.map": "/ulerdogan.github.io/gh-pages-set/static/js/2.1a5470bc.chunk.js.map",
-    "static/js/3.c8672e50.chunk.js": "/ulerdogan.github.io/gh-pages-set/static/js/3.c8672e50.chunk.js",
-    "static/js/3.c8672e50.chunk.js.map": "/ulerdogan.github.io/gh-pages-set/static/js/3.c8672e50.chunk.js.map",
-    "index.html": "/ulerdogan.github.io/gh-pages-set/index.html",
-    "static/css/main.8e2bcc4c.chunk.css.map": "/ulerdogan.github.io/gh-pages-set/static/css/main.8e2bcc4c.chunk.css.map",
-    "static/js/2.1a5470bc.chunk.js.LICENSE.txt": "/ulerdogan.github.io/gh-pages-set/static/js/2.1a5470bc.chunk.js.LICENSE.txt"
+    "main.css": "/gh-pages-set/static/css/main.8e2bcc4c.chunk.css",
+    "main.js": "/gh-pages-set/static/js/main.6ba438e7.chunk.js",
+    "main.js.map": "/gh-pages-set/static/js/main.6ba438e7.chunk.js.map",
+    "runtime-main.js": "/gh-pages-set/static/js/runtime-main.e9e23798.js",
+    "runtime-main.js.map": "/gh-pages-set/static/js/runtime-main.e9e23798.js.map",
+    "static/js/2.1a5470bc.chunk.js": "/gh-pages-set/static/js/2.1a5470bc.chunk.js",
+    "static/js/2.1a5470bc.chunk.js.map": "/gh-pages-set/static/js/2.1a5470bc.chunk.js.map",
+    "static/js/3.c8672e50.chunk.js": "/gh-pages-set/static/js/3.c8672e50.chunk.js",
+    "static/js/3.c8672e50.chunk.js.map": "/gh-pages-set/static/js/3.c8672e50.chunk.js.map",
+    "index.html": "/gh-pages-set/index.html",
+    "static/css/main.8e2bcc4c.chunk.css.map": "/gh-pages-set/static/css/main.8e2bcc4c.chunk.css.map",
+    "static/js/2.1a5470bc.chunk.js.LICENSE.txt": "/gh-pages-set/static/js/2.1a5470bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d522c0d6.js",
+    "static/js/runtime-main.e9e23798.js",
     "static/js/2.1a5470bc.chunk.js",
     "static/css/main.8e2bcc4c.chunk.css",
     "static/js/main.6ba438e7.chunk.js"
