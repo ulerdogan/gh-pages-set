@@ -1,6 +1,6 @@
 {
-  "name": "demo1",
-  "homepage": "http://ulerdogan.github.io/gh-pages-set",
+  "name": "react-demo-ghpages",
+  "homepage": "http://ulerdogan.github.io/react-demo-ghpages/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
